@@ -8,6 +8,3 @@ spec:
     - name: production
       labels: 
         version: production
-    - name: canary
-      labels:
-        version: canary
